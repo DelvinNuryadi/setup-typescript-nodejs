@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+        "rootDir": "./src", // source directory
+        "outDir": "./dist", // compiled directory
+        "module": "commonjs", // build type commonjs
+        "target": "esnext", // esnext for modern feature
+        "esModuleInterop": true, // import module with esm style
+        "strict": true // strict type
+    }
+}
